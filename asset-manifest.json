@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/is-your-birthday-lucky-/static/css/main.b3547adf.chunk.css",
+    "main.js": "/is-your-birthday-lucky-/static/js/main.5a595aa7.chunk.js",
+    "runtime-main.js": "/is-your-birthday-lucky-/static/js/runtime-main.9403f92e.js",
+    "static/js/2.5a65ac87.chunk.js": "/is-your-birthday-lucky-/static/js/2.5a65ac87.chunk.js",
+    "static/js/3.fe34011c.chunk.js": "/is-your-birthday-lucky-/static/js/3.fe34011c.chunk.js",
+    "index.html": "/is-your-birthday-lucky-/index.html",
+    "static/js/2.5a65ac87.chunk.js.LICENSE.txt": "/is-your-birthday-lucky-/static/js/2.5a65ac87.chunk.js.LICENSE.txt",
+    "static/media/birthday.c489da93.png": "/is-your-birthday-lucky-/static/media/birthday.c489da93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9403f92e.js",
+    "static/js/2.5a65ac87.chunk.js",
+    "static/css/main.b3547adf.chunk.css",
+    "static/js/main.5a595aa7.chunk.js"
+  ]
+}
