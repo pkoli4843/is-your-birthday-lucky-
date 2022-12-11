@@ -2,4 +2,4 @@
 
 Created this app using React-JS, which tells if birthdate is lucky or not.
 
-Live Url: https://mrunal3.github.io/isBirthdayLucky/
+Live Url: https://github.com/pkoli4843/is-your-birthday-lucky-
